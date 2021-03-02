@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Date 2019-3-4 14:36
  * @Created by CrazyStone
  */
+//hehe
 @RestController
 @RequestMapping("/api")  // 窄化请求路径
 public class ApiCommentController {
